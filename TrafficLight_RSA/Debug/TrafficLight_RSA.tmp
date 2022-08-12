@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Ronster\Documents\Atmel Studio\7.0\TrafficLight_RSA\TrafficLight_RSA\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Ronster\Documents\Atmel Studio\7.0\TrafficLight_RSA\TrafficLight_RSA\TrafficLight_RSA.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Ronster\Documents\Atmel Studio\7.0\TrafficLight_RSA\TrafficLight_RSA\Debug\TrafficLight_RSA.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>TrafficLight_RSA.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>TrafficLight_RSA.map</FILE>
+  <FILE>TrafficLight_RSA.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <myArray><FILE>C:\Users\Ronster\Documents\Atmel Studio\7.0\TrafficLight_RSA\TrafficLight_RSA\TrafficLight_RSA.asm</FILE><LINE>33</LINE></myArray>
+  <setup><FILE>C:\Users\Ronster\Documents\Atmel Studio\7.0\TrafficLight_RSA\TrafficLight_RSA\TrafficLight_RSA.asm</FILE><LINE>45</LINE></setup>
+  <overflow_handler><FILE>C:\Users\Ronster\Documents\Atmel Studio\7.0\TrafficLight_RSA\TrafficLight_RSA\TrafficLight_RSA.asm</FILE><LINE>123</LINE></overflow_handler>
+  <main><FILE>C:\Users\Ronster\Documents\Atmel Studio\7.0\TrafficLight_RSA\TrafficLight_RSA\TrafficLight_RSA.asm</FILE><LINE>97</LINE></main>
+  <delay><FILE>C:\Users\Ronster\Documents\Atmel Studio\7.0\TrafficLight_RSA\TrafficLight_RSA\TrafficLight_RSA.asm</FILE><LINE>115</LINE></delay>
+  <display><FILE>C:\Users\Ronster\Documents\Atmel Studio\7.0\TrafficLight_RSA\TrafficLight_RSA\TrafficLight_RSA.asm</FILE><LINE>131</LINE></display>
+  <wait_for_button><FILE>C:\Users\Ronster\Documents\Atmel Studio\7.0\TrafficLight_RSA\TrafficLight_RSA\TrafficLight_RSA.asm</FILE><LINE>109</LINE></wait_for_button>
+  <wait_release><FILE>C:\Users\Ronster\Documents\Atmel Studio\7.0\TrafficLight_RSA\TrafficLight_RSA\TrafficLight_RSA.asm</FILE><LINE>135</LINE></wait_release>
+  <delay_loop><FILE>C:\Users\Ronster\Documents\Atmel Studio\7.0\TrafficLight_RSA\TrafficLight_RSA\TrafficLight_RSA.asm</FILE><LINE>117</LINE></delay_loop>
+  <overflow_return><FILE>C:\Users\Ronster\Documents\Atmel Studio\7.0\TrafficLight_RSA\TrafficLight_RSA\TrafficLight_RSA.asm</FILE><LINE>128</LINE></overflow_return>
+ </LABELS>
+</ASSEMBLER_INFO>
