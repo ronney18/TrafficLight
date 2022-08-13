@@ -2,7 +2,7 @@
 	Name: Ronney Sanchez
 	Date: 11/29/16
 	Course: CTE210 Microcomputers
-	Program: Lab 3 Shifting
+	Program: Traffic Light
 	Description: This program store a 1 for Pin 4 to SRAM and it grab that set of bit instruction and load it to a register. The program then takes that
 	register, display it to the first light on the board and then shift that 1 on the bit to the left so that it could turn the next light on. 
 	It will keep shifting to the left until and overflow occurrs and then branches back to the setup.
